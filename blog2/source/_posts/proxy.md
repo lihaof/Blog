@@ -2,6 +2,8 @@
 title: ES6 Proxy 实现基本的数据绑定
 date: 2017-08-4 13:43:24
 tags:
+- ES6
+- JavaScript
 ---
 
 > 最近看到ES6的Proxy，想到可以用他实现一下数据绑定
